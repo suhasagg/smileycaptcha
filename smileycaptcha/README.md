@@ -1,3 +1,3 @@
-Smiley Captcha and Smiley Games Solving Complex Problems
-
-WISDOM'15 (KDD 2015)
+Corresponding paper - Animated CAPTCHAs and games for advertising
+S. Aggarwal
+Published in WWW '13 
